@@ -23,7 +23,7 @@ Geef svp met onderstaande knoppen je aanwezigheid aan:
 ## Kledingadvies
 Feestelijk
 
-## Cadeau
+## Geschenken
 Indien jullie de behoefte hebben om ons als bruidspaar iets te willen geven, lever dan een bijdrage aan de verdere ontwikkeling van Landgoed Nuwenhuys.
 
 Wij hebben bewust gekozen voor ons bruiloftfeest op Landgoed Nuwenhuys omdat de stichters hiervan beogen om in de werkzaamheden en festiviteiten op Nuwenhuys mensen met en zonder (meervoudige) handicap met elkaar samen te brengen en samen dingen te doen en te vieren. 
@@ -54,7 +54,7 @@ de auto ‘s morgens aan het Reeptiend (gratis) en fiets dan naar de Waalse Kerk
 ## Routebeschrijving
 Sla vanaf het parkeerterrein linksaf, rechts voor je ligt dan het landgoed. Laat het Landgoed rechts liggen en neem het eerstkomende fietspad dat je ziet in het voor je liggende Markdal naar links. Fiets dat helemaal uit tot het einde van dat vrijliggende fietspad. Sla rechtsaf zodra je op de weg komt. Dan kom je op het Ginnekenplein en sla dan linksaf en vervolg daarna de Ginnekenweg (let op bij de kruising met de verdiepte ligging van de Zuidelijke Rondweg want daar moet je even rechts en dan meteen linksaf over de rondweg heen je weg vervolgen in de Ginnekenweg), Wilhelminastraat en daarna over de singels Ginnekenstraat totdat je in het centrum van de stad op ‘een soort van rotonde’ met een IJssalon rechts op de hoek arriveert. Sla daar rechtsaf (pas op dat stukje moet je delen met voetgangers) en sla zodra je weer de fiets/voetgangerszone verlaat linksaf met de bocht mee langs popcentrum Mezzo. Fiets die weg helemaal uit en fiets aan het einde met de bocht mee naar rechts. Daarna het eerste steegje linksaf het centrum in. Kijk uit, dit is een gevaarlijk en onoverzichtelijk punt om linksaf te slaan. Zodra je het steegje met kinderkopjes hebt bereikt met links de bibliotheek, fiets je rechtdoor, je kruist loodrecht de voetgangerszone, tot aan een T-kruising in het historische hart van Breda. Sla rechtsaf en dan zie je de Waalse Kerk links voor je!
 
-## Overnachtingsmogelijkheden
+## Overnachting
 De nog beperkte B&B faciliteit van Nuwenhuys is reeds gereserveerd voor familie. Overige overnachtingsmogelijkheden zijn:
 
 ### Hotels
