@@ -28,11 +28,11 @@ Indien jullie de behoefte hebben om ons als bruidspaar iets te willen geven, lev
 
 Wij hebben bewust gekozen voor ons bruiloftfeest op Landgoed Nuwenhuys omdat de stichters hiervan beogen om in de werkzaamheden en festiviteiten op Nuwenhuys mensen met en zonder (meervoudige) handicap met elkaar samen te brengen en samen dingen te doen en te vieren. 
 
-De stichting Landgoed Nuwenhuys is op 21 juni 2018 van start gegaan en heeft nog de nodige investeringen voor de boeg alvorens de organisatie van de beoogde sociale activiteiten zoals het project ‘Zinvol werk voor mensen met een beperking’, van start kan gaan (zie nuwenhuys.nl).
+De stichting Landgoed Nuwenhuys is op 21 juni 2018 van start gegaan en heeft nog de nodige investeringen voor de boeg alvorens de organisatie van de beoogde sociale activiteiten zoals het project ‘Zinvol werk voor mensen met een beperking’, van start kan gaan (zie [www.nuwenhuys.nl](http://www.nuwenhuys.nl/)).
 
 Jullie giften zijn derhalve zeer welkom! Nuwenhuys betaalt geen erf- en schenkbelasting dus jullie donatie komt dus voor 100% goed terecht.
 
-Voor het realiseren van jullie donaties aan de Stichting Steunfonds Landgoed Nuwenhuys zie nuwenhuys.nl onder ‘Donaties Welkom’.
+Voor het realiseren van jullie donaties aan de Stichting Steunfonds Landgoed Nuwenhuys zie [deze pagina](http://www.nuwenhuys.nl/donaties-welkom/).
 
 ## Adressen van de bruiloft
 <ul>
