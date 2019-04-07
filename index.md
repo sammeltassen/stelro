@@ -1,6 +1,7 @@
 ---
 title: Huwelijk Stella de Man en Rob Schoonman
 layout: page
+indexing: false
 feature_image: "/assets/img/StellaRob_01-1000px.jpg"
 feature_text: |
 ---
