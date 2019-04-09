@@ -10,7 +10,7 @@ Geef svp met onderstaande knoppen je aanwezigheid aan:
 
 {% include site-form.html %}
 
-## Toelichting huwelijksbekrachtiging en -viering
+## Huwelijkssluiting
 Zowel de burgerlijke huwelijksbekrachtiging als de kerkelijke/spirituele huwelijksviering vinden plaats in de Waalse Kerk. Het eerste vangt aan om 11.00 u ’s morgens en het tweede om 14.00 uur ’s middags. Tussen 12.00 uur en 13.45 uur worden jullie uitgenodigd om gezamenlijk de lunch te gebruiken in het Valkenbergpark op 7 minuten lopen vanaf de Waalse Kerk.
 
 Indien je/jullie van plan bent/zijn om alleen de ochtend aanwezig te zijn, dan wel alleen bij de middagviering aanwezig te zijn, geef dat dan aan door gebruik te maken van de optie ‘bericht’ bij je aanmelding. Vermeld dan tevens in je bericht of je wel of niet gebruik wilt maken van de lunch.
@@ -40,7 +40,7 @@ Jullie giften zijn derhalve zeer welkom!
 
 Voor het realiseren van jullie donaties aan de Stichting Steunfonds Landgoed Nuwenhuys zie [deze pagina](http://www.nuwenhuys.nl/donaties-welkom/).
 
-## Adressen van de bruiloft
+## Adressen
 <ul>
 {% for locatie in site.data.locaties %}
   <li>
@@ -77,7 +77,7 @@ De nog beperkte B&B faciliteit van Nuwenhuys is reeds gereserveerd voor familie.
 {% endfor %}
 </ul>
 
-### Kamperen in de omgeving
+### Kamperen
 
 <ul>
 {% for camping in site.data.campings %}
