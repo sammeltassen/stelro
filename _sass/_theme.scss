@@ -56,6 +56,20 @@ body {
   }
 }
 
+.feature-bottom {
+  padding-bottom: .4rem;
+  text-align: center;
+  background: $featureBackgroundColour;
+  background-size: cover;
+  background-position: center;
+  .container {
+    min-height: 100vh;
+    max-width: 60%;
+    @include flex-direction(column);
+    @include justify-content(center);
+  }
+}
+
 .logo {
   display: inline-block;
   line-height: 0;
