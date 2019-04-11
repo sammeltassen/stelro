@@ -10,6 +10,22 @@ feature_text: |
 
 Bedankt voor het invullen van het formulier!
 
+## Huwelijkssluiting
+Zowel de burgerlijke huwelijksbekrachtiging als de kerkelijke/spirituele huwelijksviering vinden plaats in de Waalse Kerk. Het eerste vangt aan om 11.00 u ’s morgens en het tweede om 14.00 uur ’s middags. Tussen 12.00 uur en 13.45 uur worden jullie uitgenodigd om gezamenlijk de lunch te gebruiken in het Valkenbergpark op 7 minuten lopen vanaf de Waalse Kerk.
+
+Indien je/jullie van plan bent/zijn om alleen de ochtend aanwezig te zijn, dan wel alleen bij de middagviering aanwezig te zijn, geef dat dan aan door gebruik te maken van de optie ‘bericht’ bij je aanmelding. Vermeld dan tevens in je bericht of je wel of niet gebruik wilt maken van de lunch.
+
+## Ceremoniemeesters
+<ul>
+{% for ceremoniemeester in site.data.ceremoniemeesters %}
+  <li>
+    <b>{{ ceremoniemeester.naam }}</b><br>
+	Telefoonnummer: {{ ceremoniemeester.mobiel }}<br>
+	<a href="mailto:{{ ceremoniemeester.email | encode_email }}" title="Email">Email</a>
+  </li>
+{% endfor %}
+</ul>
+
 ## Kledingadvies
 Feestelijk
 
@@ -20,11 +36,11 @@ Wij hebben bewust gekozen voor ons bruiloftfeest op Landgoed Nuwenhuys omdat de 
 
 De stichting Landgoed Nuwenhuys is op 21 juni 2018 van start gegaan en heeft nog de nodige investeringen voor de boeg alvorens de organisatie van de beoogde sociale activiteiten zoals het project ‘Zinvol werk voor mensen met een beperking’, van start kan gaan (zie [www.nuwenhuys.nl](http://www.nuwenhuys.nl/)).
 
-Jullie giften zijn derhalve zeer welkom! Nuwenhuys betaalt geen erf- en schenkbelasting dus jullie donatie komt dus voor 100% goed terecht.
+Jullie giften zijn derhalve zeer welkom!
 
 Voor het realiseren van jullie donaties aan de Stichting Steunfonds Landgoed Nuwenhuys zie [deze pagina](http://www.nuwenhuys.nl/donaties-welkom/).
 
-## Adressen van de bruiloft
+## Adressen
 <ul>
 {% for locatie in site.data.locaties %}
   <li>
@@ -61,7 +77,7 @@ De nog beperkte B&B faciliteit van Nuwenhuys is reeds gereserveerd voor familie.
 {% endfor %}
 </ul>
 
-### Kamperen in de omgeving
+### Kamperen
 
 <ul>
 {% for camping in site.data.campings %}
@@ -73,3 +89,5 @@ De nog beperkte B&B faciliteit van Nuwenhuys is reeds gereserveerd voor familie.
   </li>
 {% endfor %}
 </ul>
+
+[Terug naar boven](/#top)
