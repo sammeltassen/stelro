@@ -95,4 +95,4 @@ De nog beperkte B&B faciliteit van Nuwenhuys is reeds gereserveerd voor familie.
 
 _Beeld: [studio ilse van klei](http://ilsevanklei.nl)_
 
-[Terug naar boven](/#top)
+[Terug naar boven](#top)
