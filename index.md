@@ -7,6 +7,8 @@ feature_image_bottom: "/assets/img/StellaRob_02-1000px.jpg"
 feature_text: |
 ---
 
+# Huwelijk Stella de Man <br>en Rob Schoonman
+
 Geef svp met onderstaande knoppen je aanwezigheid aan:
 
 {% include site-form.html %}

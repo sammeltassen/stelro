@@ -8,6 +8,8 @@ permalink: thanks.html
 feature_text: |
 ---
 
+# Huwelijk Stella de Man <br>en Rob Schoonman
+
 _Bedankt voor het invullen van het formulier!_
 
 ## Huwelijkssluiting
