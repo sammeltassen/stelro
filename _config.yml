@@ -1,10 +1,6 @@
 # Set theme
 theme: alembic-jekyll-theme
 
-# Gems
-gems:
-- jekyll-email-protect
-
 # File excludes
 exclude:
 - README.md
@@ -13,6 +9,7 @@ exclude:
 
 # Set plugins
 plugins:
+- jekyll-email-protect
 - jekyll-sitemap
 - jekyll-mentions
 - jekyll-paginate
