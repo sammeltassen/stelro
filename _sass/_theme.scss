@@ -1,6 +1,9 @@
 // Structural elements
 body {
   background: $backgroundColour;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
   color: $bodyColour;
   height: 100%;
   display: flex;
@@ -11,7 +14,11 @@ body {
 .container {
   width: 90%;
   max-width: 1200px;
-  margin: 0 auto;
+  margin: 10rem auto;
+  background-color: rgba(255,255,255,.6);
+  @include breakpoint(break-1) {
+    width: 62%;
+  }
 }
 
 
@@ -135,6 +142,7 @@ body {
   @include flex(1, 0, auto);
   @include justify-content(flex-start);
   margin-bottom: 1.6rem;
+  padding: 1rem 2rem;
   @include breakpoint(break-1) {
     @include justify-content(center);
     @include flex-direction(row);
@@ -149,7 +157,7 @@ body {
 
 .content {
   @include breakpoint(break-1) {
-    width: 62%;
+    width: 100%;
   }
 }
 
@@ -424,8 +432,8 @@ pre code {
 }
 
 ::selection {
-  background: $headingColour;
-  color: $backgroundColour;
+  background: $accentColour;
+  color: $bodyColour;
   text-shadow: none;
 }
 
