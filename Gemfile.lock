@@ -116,6 +116,3 @@ DEPENDENCIES
   alembic-jekyll-theme (~> 3.0.3)
   jekyll (~> 3.8)
   jekyll-email-protect
-
-BUNDLED WITH
-   2.0.1
