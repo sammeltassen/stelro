@@ -8,7 +8,7 @@ permalink: thanks.html
 feature_text: |
 ---
 
-Bedankt voor het invullen van het formulier!
+_Bedankt voor het invullen van het formulier!_
 
 ## Huwelijkssluiting
 Zowel de burgerlijke huwelijksbekrachtiging als de kerkelijke/spirituele huwelijksviering vinden plaats in de Waalse Kerk. Het eerste vangt aan om 11.00 u ’s morgens en het tweede om 14.00 uur ’s middags. Tussen 12.00 uur en 13.45 uur worden jullie uitgenodigd om gezamenlijk de lunch te gebruiken in het Valkenbergpark op 7 minuten lopen vanaf de Waalse Kerk.
