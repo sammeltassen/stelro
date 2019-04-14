@@ -12,7 +12,7 @@
   {% assign thanks_url = "/thanks/" %}
 {% endif %}
 
-<form class="form  form--{{ name_id }}" method="post" name="{{ name }}" action="{{ thanks_url }}"
+<form class="form  form--{{ name_id }}" method="POST" name="{{ name }}" action="https://formspree.io/mokjwpom"
   {% if include.netlify_form %}
     netlify-honeypot="bot-field"
     netlify
@@ -39,7 +39,7 @@
   	<input type="radio" id="message--{{ name_id }}" name="diner" value="wij-komen"> Wij komen naar het diner/dansant op Landgoed Nuwenhuys vanaf 19.00 uur</p>
 
     <label class="label" for="message--{{ name_id }}">Bericht (optioneel):</label>
-    <textarea class="textarea" id="message--{{ name_id }}" name="message" placeholder="Your message..."></textarea>
+    <textarea class="textarea" id="message--{{ name_id }}" name="bericht" placeholder="Bericht..."></textarea>
 
     <input class="button" type="submit" value="Versturen" /> <input class="button" type="reset" value="Reset" />
     <br/>

@@ -1,10 +1,6 @@
 # Set theme
 theme: alembic-jekyll-theme
 
-# Gems
-gems:
-- jekyll-email-protect
-
 # File excludes
 exclude:
 - README.md
@@ -13,6 +9,7 @@ exclude:
 
 # Set plugins
 plugins:
+- jekyll-email-protect
 - jekyll-sitemap
 - jekyll-mentions
 - jekyll-paginate
@@ -28,7 +25,7 @@ baseurl: ''
 title: 'Huwelijk Stella de Man & Rob Schoonman'
 description: 'Huwelijkswebsite voor Stella de Man en Rob Schoonman'
 permalink: pretty
-email: jules.schoonman@gmail.com
+email: stelro2019@gmail.com
 
 # Pagination
 

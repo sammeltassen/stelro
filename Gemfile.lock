@@ -8,7 +8,7 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.6.0)
       public_suffix (>= 2.0.2, < 4.0)
-    alembic-jekyll-theme (3.0.10)
+    alembic-jekyll-theme (3.0.11)
       jekyll (~> 3.8)
       jekyll-commonmark (~> 1.2)
       jekyll-default-layout (~> 0.1)
@@ -21,7 +21,7 @@ GEM
       jekyll-sitemap (~> 0.13)
       jemoji (~> 0.9)
     colorator (1.1.0)
-    commonmarker (0.19.0)
+    commonmarker (0.20.0)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.5)
     em-websocket (0.5.1)
@@ -31,7 +31,7 @@ GEM
     ffi (1.10.0)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
-    html-pipeline (2.10.0)
+    html-pipeline (2.11.0)
       activesupport (>= 2)
       nokogiri (>= 1.4)
     http_parser.rb (0.6.0)
@@ -116,6 +116,3 @@ DEPENDENCIES
   alembic-jekyll-theme (~> 3.0.3)
   jekyll (~> 3.8)
   jekyll-email-protect
-
-BUNDLED WITH
-   2.0.1

@@ -1,0 +1,10 @@
+{% assign feature_text_bottom = page.feature_text_bottom %}
+{% assign feature_image_bottom = page.feature_image_bottom %}
+
+{% if feature_text_bottom or feature_image_bottom %}
+  <div class="feature-bottom"{% if feature_image_bottom %} style="background-image: url({{ feature_image_bottom }})"{% endif %}>
+    <div class="container  typeset">
+      {{ feature_text_bottom | markdownify }}
+    </div>
+  </div>
+{% endif %}
