@@ -53,6 +53,25 @@ Voor het realiseren van jullie donaties aan de Stichting Steunfonds Landgoed Nuw
 {% endfor %}
 </ul>
 
+## Parkeren
+
+### Bij de Waalse Kerk
+
+<ul>
+{% for parkeerplaats in site.data.parkeren %}
+  <li>
+    <b>{{ parkeerplaats.naam }}</b><br>
+    {% if parkeerplaats.comment %}<i>{{ parkeerplaats.comment }}</i><br>{% endif %}
+	{{ parkeerplaats.adres }}<br>
+	<a href="https://www.google.com/maps/search/?api=1&query={{ hotel.adres | uri_escape}}">Google Maps</a>
+  </li>
+{% endfor %}
+</ul>
+
+### Bij Landgoed Nuwenhuys
+Het parkeerterrein van Hockeyclub Zwart-Wit. De Club weet en is ermee akkoord dat onze gasten hun P-plaats gebruiken op 27 juni a.s. (het seizoen is dan al afgesloten). De ingang van de P-plaats vind je tussen [Reeptiend 19 en Reeptiend 25 te Breda](https://goo.gl/maps/tYPvPXBgda7azA3D8). Let op de drie richting aangevende houten bordjes met aanduiding stelro2019!
+Rijdend vanaf de bebouwde kom van Breda zuidwaarts op de Galderseweg passeer je allereerst aan de linker kant het Kasteel Bouvinge, de kantoren van het Waterschap, het complex van Justitiële Jeugdinrichting en de hockeyvelden. Direct na de hockeyvelden wordt de afslag Reeptiend links (doodlopende weg) gemarkeerd door een horecabedrijf en het aan de lantaarnpaal bevestigde richtingbordje ‘stelro2019’.
+
 ## Tip
 De afstand tussen de Waalse Kerk in Breda en Landgoed Nuwenhuys aan de Zuidkant van Breda is nog geen 6 km. Het is een aantrekkelijke fietsroute via Ginnekenweg, Ginnekenpleintje en het fietspad langs de Mark naar het landgoed. 
 Parkeren bij het landgoed is mogelijk op het parkeerterrein van de hockeyclub aan het Reeptiend (het is buiten het hockeyseizoen). Kom je met de auto, neem je fietsen mee en parkeer 
@@ -65,7 +84,6 @@ Sla vanaf het parkeerterrein linksaf, rechts voor je ligt dan het landgoed. Laat
 De nog beperkte B&B faciliteit van Nuwenhuys is reeds gereserveerd voor familie. Overige overnachtingsmogelijkheden zijn:
 
 ### Hotels
-
 <ul>
 {% for hotel in site.data.hotels %}
   <li>
@@ -79,7 +97,6 @@ De nog beperkte B&B faciliteit van Nuwenhuys is reeds gereserveerd voor familie.
 </ul>
 
 ### Kamperen
-
 <ul>
 {% for camping in site.data.campings %}
   <li>
