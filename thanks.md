@@ -60,15 +60,16 @@ Voor het realiseren van jullie donaties aan de Stichting Steunfonds Landgoed Nuw
 {% for parkeerplaats in site.data.parkeren %}
   <li>
     <b>{{ parkeerplaats.naam }}</b><br>
-    {% if parkeerplaats.comment %}<i>{{ parkeerplaats.comment }}</i><br>{% endif %}
 	{{ parkeerplaats.adres }}<br>
-	<a href="https://www.google.com/maps/search/?api=1&query={{ hotel.adres | uri_escape}}">Google Maps</a>
+	<a href="https://www.google.com/maps/search/?api=1&query={{ parkeerplaats.adres | uri_escape}}">Google Maps</a>
+	{% if parkeerplaats.comment %}<br><i>{{ parkeerplaats.comment }}</i><br>{% endif %}
   </li>
 {% endfor %}
 </ul>
 
 ### Bij Landgoed Nuwenhuys
 Het parkeerterrein van Hockeyclub Zwart-Wit. De Club weet en is ermee akkoord dat onze gasten hun P-plaats gebruiken op 27 juni a.s. (het seizoen is dan al afgesloten). De ingang van de P-plaats vind je tussen [Reeptiend 19 en Reeptiend 25 te Breda](https://goo.gl/maps/tYPvPXBgda7azA3D8). Let op de drie richting aangevende houten bordjes met aanduiding stelro2019!
+
 Rijdend vanaf de bebouwde kom van Breda zuidwaarts op de Galderseweg passeer je allereerst aan de linker kant het Kasteel Bouvinge, de kantoren van het Waterschap, het complex van Justitiële Jeugdinrichting en de hockeyvelden. Direct na de hockeyvelden wordt de afslag Reeptiend links (doodlopende weg) gemarkeerd door een horecabedrijf en het aan de lantaarnpaal bevestigde richtingbordje ‘stelro2019’.
 
 ## Tip
